@@ -1,4 +1,4 @@
 {
-  main: "src/jenkins.js",
-  name: "jenkins-hash",
+  "main": "src/jenkins.js",
+  "name": "jenkins-hash",
 }
