@@ -140,3 +140,4 @@ var Jenkins = function(seeds) {
     };
 };
 
+export default Jenkins;
